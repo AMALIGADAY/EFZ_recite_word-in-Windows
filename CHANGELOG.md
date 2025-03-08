@@ -2,7 +2,7 @@
 
 所有值得记录的对这个项目的更改将会被记录在这个文件里。
 
-## [未发布]
+## [1.1]
 
 ### Added
 
@@ -37,5 +37,6 @@
 
 - 从 Linux 移植至 Windows
 
-[未发布]: todo
+[1.1]: https://github.com/AMALIGADAY/EFZ_recite_word-in-Windows/releases/tag/v1.1
+
 [1.0]: 404 Lost in Atlantis
