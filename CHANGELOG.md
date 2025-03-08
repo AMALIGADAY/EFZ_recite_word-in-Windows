@@ -8,6 +8,7 @@
 
 - 中途退出时保存当前进度
 - `CHANGELOG.md`, `CHANGELOG.pdf`, `README.pdf`
+- 词库 `B2U3.txt`,`B2U4.txt`,`B3U1.txt`
 
 ### Changed
 
